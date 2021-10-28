@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Vanya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\ItSTEP\\WindowsForms\\Homework2(Ivan_Zaporozhets)\\CookieClicker\\CookieClicker\\CookieClicker.csproj",
+      "projectUniqueName": "E:\\Programming\\OLD\\ItSTEP\\WindowsForms\\Homework2(Ivan_Zaporozhets)\\CookieClicker\\CookieClicker\\CookieClicker.csproj",
       "projectName": "CookieClicker",
-      "projectPath": "D:\\Programming\\ItSTEP\\WindowsForms\\Homework2(Ivan_Zaporozhets)\\CookieClicker\\CookieClicker\\CookieClicker.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\ItSTEP\\WindowsForms\\Homework2(Ivan_Zaporozhets)\\CookieClicker\\CookieClicker\\obj\\",
+      "projectPath": "E:\\Programming\\OLD\\ItSTEP\\WindowsForms\\Homework2(Ivan_Zaporozhets)\\CookieClicker\\CookieClicker\\CookieClicker.csproj",
+      "packagesPath": "C:\\Users\\Vanya\\.nuget\\packages\\",
+      "outputPath": "E:\\Programming\\OLD\\ItSTEP\\WindowsForms\\Homework2(Ivan_Zaporozhets)\\CookieClicker\\CookieClicker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vanya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
