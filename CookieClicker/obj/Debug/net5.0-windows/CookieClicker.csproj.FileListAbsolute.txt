@@ -16,3 +16,34 @@ D:\Programming\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\Coo
 D:\Programming\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\ref\CookieClicker.dll
 D:\Programming\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.pdb
 D:\Programming\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.genruntimeconfig.cache
+<<<<<<< develop
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.exe
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.deps.json
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.runtimeconfig.json
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.runtimeconfig.dev.json
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.dll
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\ref\CookieClicker.dll
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.pdb
+=======
+>>>>>>> local
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.csproj.AssemblyReference.cache
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.Form1.resources
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.csproj.GenerateResource.cache
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.AssemblyInfoInputs.cache
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.AssemblyInfo.cs
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.csproj.CoreCompileInputs.cache
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.dll
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\ref\CookieClicker.dll
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.pdb
+<<<<<<< develop
+=======
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.exe
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.deps.json
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.runtimeconfig.json
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.runtimeconfig.dev.json
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.dll
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\ref\CookieClicker.dll
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\bin\Debug\net5.0-windows\CookieClicker.pdb
+>>>>>>> local
+E:\Programming\OLD\ItSTEP\WindowsForms\Homework2(Ivan_Zaporozhets)\CookieClicker\CookieClicker\obj\Debug\net5.0-windows\CookieClicker.genruntimeconfig.cache

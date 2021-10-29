@@ -7,7 +7,11 @@
     },
     "additionalProbingPaths": [
       "C:\\Users\\Vanya\\.dotnet\\store\\|arch|\\|tfm|",
+<<<<<<< HEAD
       "C:\\Users\\User\\.nuget\\packages"
+=======
+      "C:\\Users\\Vanya\\.nuget\\packages"
+>>>>>>> develop
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
