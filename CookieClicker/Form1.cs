@@ -72,14 +72,38 @@ namespace CookieClicker
             FarmPrice.Text = upgradePrices[2].ToString();
             MinePrice.Text = upgradePrices[3].ToString();
             FactoryPrice.Text = upgradePrices[4].ToString();
+            CosmicEmpirePrice.Text = upgradePrices[5].ToString();
 
             CursorLevel.Text = upgradeLevels[0].ToString();
             GrandmaLevel.Text = upgradeLevels[1].ToString();
             FarmLevel.Text = upgradeLevels[2].ToString();
             MineLevel.Text = upgradeLevels[3].ToString();
             FactoryLevel.Text = upgradeLevels[4].ToString();
+            CosmicEmpireLevel.Text = upgradeLevels[5].ToString();
 
             cookiesPerSecondText.Text = cookiesPerSecond.ToString();
+
+            this.NotActiveButton(CursorUpgrade, 0);
+            this.NotActiveButton(GrandmaUpgrade, 1);
+            this.NotActiveButton(FarmUpgrade, 2);
+            this.NotActiveButton(MineUpgrade, 3);
+            this.NotActiveButton(FactoryUpgrade, 4);
+            this.NotActiveButton(CosmicEmpireUpgrade, 5);
+        }
+
+        private void NotActiveButton(Button bttn, int i)
+        {
+            if (i >= 0 && i < upgradePrices.Count)
+            {
+                if (cookiesAmount >= upgradePrices[i])
+                {
+                    bttn.Enabled = true;
+                }
+                else
+                {
+                    bttn.Enabled = false;
+                }
+            }        
         }
 
         private void cookiesPerSecond_Update(object source, EventArgs e)
@@ -110,7 +134,7 @@ namespace CookieClicker
         {
             int i = 1;
             if (cookiesAmount >= upgradePrices[i])
-            {                
+            {
                 upgradeLevels[i] += 1;
                 cookiesAmount -= upgradePrices[i];
                 upgradePrices[i] = addPercentsToPrice(upgradePrices[i]);
